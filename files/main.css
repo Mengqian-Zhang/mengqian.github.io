@@ -52,7 +52,7 @@ a:link, a:visited{
 }
 
 .introimage {
-  float: right; 
+  float: left; 
   margin-right: 10px; 
   margin-left: 20px; 
   margin-bottom: 50px;
